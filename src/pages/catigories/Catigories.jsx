@@ -9,25 +9,25 @@ function Catigories() {
 			id: 1,
 			category: 'honadon-uchun',
 			title: 'honadon-uchun',
-			image: 'public/image/123.png',
+			image: 'image/123.png',
 		},
 		{
 			id: 2,
 			category: 'magestral',
 			title: 'magestral',
-			image: 'public/image/123.png',
+			image: 'image/123.png',
 		},
 		{
 			id: 3,
 			category: 'korhonalar',
 			title: 'korhonalar',
-			image: 'public/image/123.png',
+			image: 'image/123.png',
 		},
 		{
 			id: 4,
 			category: 'katrij',
 			title: 'katrij',
-			image: 'public/image/123.png',
+			image: 'image/123.png',
 		},
 	]
 
