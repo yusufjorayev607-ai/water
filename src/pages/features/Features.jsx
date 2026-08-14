@@ -4,23 +4,23 @@ function Features() {
 	const services = [
 		{
 			slug: 'sprout',
-			image: 'public/icons/light/sprout.svg',
-			imageDarck: 'public/icons/darck/sprout-darck.svg',
+			image: '/icons/light/sprout.svg',
+			imageDarck: '/icons/darck/sprout-darck.svg',
 		},
 		{
 			slug: 'heart-handshake',
-			image: 'public/icons/light/heart-handshake.svg',
-			imageDarck: 'public/icons/darck/heart-handshake-darck.svg',
+			image: '/icons/light/heart-handshake.svg',
+			imageDarck: '/icons/darck/heart-handshake-darck.svg',
 		},
 		{
 			slug: 'database-zap',
-			image: 'public/icons/light/database-zap.svg',
-			imageDarck: 'public/icons/darck/database-zap-darck.svg',
+			image: '/icons/light/database-zap.svg',
+			imageDarck: '/icons/darck/database-zap-darck.svg',
 		},
 		{
 			slug: 'wand-sparkles',
-			image: 'public/icons/light/wand-sparkles.svg',
-			imageDarck: 'public/icons/darck/wand-sparkles-darck.svg',
+			image: '/icons/light/wand-sparkles.svg',
+			imageDarck: '/icons/darck/wand-sparkles-darck.svg',
 		},
 	]
 	return (
