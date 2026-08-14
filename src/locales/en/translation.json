@@ -1,0 +1,297 @@
+{
+	"portfolio": {
+		"partfolioPageTitle": "BARCHA ISHLARIMIZNI KO'RISH",
+		"title": "Portfolio",
+
+		"honadon-uchun-1": {
+			"title": "Qurilish formasi",
+			"description": "Qurilish maydonlarida foydalanish uchun mustahkam forma.",
+			"material": "Yuqori zichlikdagi mato",
+			"color": "To'q sariq",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-2": {
+			"title": "Qurilish formasi",
+			"description": "Qurilish maydonlarida foydalanish uchun mustahkam forma.",
+			"material": "Yuqori zichlikdagi mato",
+			"color": "To'q sariq",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-3": {
+			"title": "Korporativ forma",
+			"description": "Ofis va xizmat ko'rsatish xodimlari uchun forma.",
+			"material": "Premium kostyumbop mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-4": {
+			"title": "Payvandchi formasi",
+			"description": "Payvandlash ishlari uchun himoyalangan forma.",
+			"material": "Issiqlikka chidamli mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-5": {
+			"title": "Elektrik formasi",
+			"description": "Elektr montaj ishlari uchun xavfsiz forma.",
+			"material": "Dielektrik mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-6": {
+			"title": "Omborxona formasi",
+			"description": "Logistika va ombor xodimlari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-7": {
+			"title": "Restoran formasi",
+			"description": "Oshpaz va xizmat ko'rsatish xodimlari uchun.",
+			"material": "Yengil paxta",
+			"color": "Oq",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-8": {
+			"title": "Reception formasi",
+			"description": "Qabulxona xodimlari uchun zamonaviy forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-9": {
+			"title": "Qishki ishchi forma",
+			"description": "Sovuq ob-havo uchun maxsus forma.",
+			"material": "Issiqlik saqlovchi mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"honadon-uchun-10": {
+			"title": "Yozgi ishchi forma",
+			"description": "Issiq ob-havo uchun yengil forma.",
+			"material": "Nafas oluvchi mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-1": {
+			"title": "Maxsus buyurtma 2",
+			"description": "Korporativ buyurtma asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-2": {
+			"title": "Maxsus buyurtma 3",
+			"description": "Eksklyuziv dizayn asosida tikilgan.",
+			"material": "Premium mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-3": {
+			"title": "Kombinezon",
+			"description": "Ishlab chiqarish korxonalari uchun kombinezon.",
+			"material": "Mustahkam mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-4": {
+			"title": "Neft-gaz formasi",
+			"description": "Neft va gaz sanoati uchun maxsus forma.",
+			"material": "Yong'inga chidamli mato",
+			"color": "Qizil",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-5": {
+			"title": "Texnik xodim formasi",
+			"description": "Texnik xizmat ko'rsatish mutaxassislari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-6": {
+			"title": "Servis xodimi formasi",
+			"description": "Servis markazlari uchun professional forma.",
+			"material": "Yengil mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-7": {
+			"title": "Xavfsizlik xodimi formasi",
+			"description": "Qo'riqlash xizmatlari uchun maxsus forma.",
+			"material": "Mustahkam mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-8": {
+			"title": "Sklad formasi",
+			"description": "Sklad va logistika markazlari uchun forma.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-9": {
+			"title": "Ishlab chiqarish formasi",
+			"description": "Katta ishlab chiqarish korxonalari uchun forma.",
+			"material": "Paxta va polyester",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"magestral-10": {
+			"title": "Premium forma",
+			"description": "Premium segment uchun maxsus forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-1": {
+			"material": "Matosi",
+			"season": "Mavsum",
+			"color": "Rangi"
+		},
+		"korhonalar-2": {
+			"title": "Ishchi forma",
+			"description": "Zavod va ishlab chiqarish korxonalari uchun maxsus tikilgan ishchi forma.",
+			"material": "Paxta va polyester aralashmasi",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-3": {
+			"title": "Qurilish formasi",
+			"description": "Qurilish maydonlarida foydalanish uchun mustahkam forma.",
+			"material": "Yuqori zichlikdagi mato",
+			"color": "To'q sariq",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-4": {
+			"title": "Korporativ forma",
+			"description": "Ofis va xizmat ko'rsatish xodimlari uchun forma.",
+			"material": "Premium kostyumbop mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-5": {
+			"title": "Payvandchi formasi",
+			"description": "Payvandlash ishlari uchun himoyalangan forma.",
+			"material": "Issiqlikka chidamli mato",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-6": {
+			"title": "Elektrik formasi",
+			"description": "Elektr montaj ishlari uchun xavfsiz forma.",
+			"material": "Dielektrik mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-7": {
+			"title": "Omborxona formasi",
+			"description": "Logistika va ombor xodimlari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-8": {
+			"title": "Restoran formasi",
+			"description": "Oshpaz va xizmat ko'rsatish xodimlari uchun.",
+			"material": "Yengil paxta",
+			"color": "Oq",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-9": {
+			"title": "Reception formasi",
+			"description": "Qabulxona xodimlari uchun zamonaviy forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"korhonalar-10": {
+			"title": "Qishki ishchi forma",
+			"description": "Sovuq ob-havo uchun maxsus forma.",
+			"material": "Issiqlik saqlovchi mato",
+			"color": "To'q ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-1": {
+			"title": "Texnik xodim formasi",
+			"description": "Texnik xizmat ko'rsatish mutaxassislari uchun.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-2": {
+			"title": "Servis xodimi formasi",
+			"description": "Servis markazlari uchun professional forma.",
+			"material": "Yengil mato",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-3": {
+			"title": "Xavfsizlik xodimi formasi",
+			"description": "Qo'riqlash xizmatlari uchun maxsus forma.",
+			"material": "Mustahkam mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-4": {
+			"title": "Sklad formasi",
+			"description": "Sklad va logistika markazlari uchun forma.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-5": {
+			"title": "Ishlab chiqarish formasi",
+			"description": "Katta ishlab chiqarish korxonalari uchun forma.",
+			"material": "Paxta va polyester",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-6": {
+			"title": "Premium forma",
+			"description": "Premium segment uchun maxsus forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-7": {
+			"title": "Xavfsizlik xodimi formasi",
+			"description": "Qo'riqlash xizmatlari uchun maxsus forma.",
+			"material": "Mustahkam mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-8": {
+			"title": "Sklad formasi",
+			"description": "Sklad va logistika markazlari uchun forma.",
+			"material": "Polyester",
+			"color": "Kulrang",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-9": {
+			"title": "Ishlab chiqarish formasi",
+			"description": "Katta ishlab chiqarish korxonalari uchun forma.",
+			"material": "Paxta va polyester",
+			"color": "Ko'k",
+			"season": "Barcha mavsumlar"
+		},
+		"katrij-10": {
+			"title": "Premium forma",
+			"description": "Premium segment uchun maxsus forma.",
+			"material": "Premium mato",
+			"color": "Qora",
+			"season": "Barcha mavsumlar"
+		}
+	},
+	"portfolioPage": {
+		"title": "PORTFOLIO",
+		"backBtn": "ORTGA",
+		"categories": {
+			"summer": "Yozgi kiyimlar",
+			"winter": "Qishki kiyimlar",
+			"shoes": "Oyoq kiyimlari",
+			"protection": "Himoya vositalari",
+			"mass": "Ommaviy kiyimlar",
+			"kepka": "Kepka"
+		}
+	}
+}

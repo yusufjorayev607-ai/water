@@ -1,0 +1,127 @@
+.language {
+	position: relative;
+}
+
+.language-btn {
+	width: 72px;
+	height: 32px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	cursor: pointer;
+	border: 1px solid rgba(255, 255, 255, 0.35);
+	border-radius: 999px;
+	background: rgba(255, 255, 255, 0.15);
+	backdrop-filter: blur(20px);
+	-webkit-backdrop-filter: blur(20px);
+	font-weight: 600;
+	box-shadow:
+		inset 0 1px 1px rgba(255, 255, 255, 0.8),
+		0 8px 24px rgba(0, 0, 0, 0.08);
+	transition: 0.3s ease;
+}
+
+.language-btn:hover {
+	background: rgba(255, 255, 255, 0.25);
+	transform: translateY(-2px);
+}
+.language-btn:active {
+	transform: scale(0.98);
+}
+
+.globe {
+	font-size: 18px;
+}
+
+.language-btn span {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.arrow {
+	font-size: 14px;
+	transition: 0.3s;
+	border: none;
+}
+
+.arrow.activ {
+	border: none;
+	transform: rotate(180deg);
+}
+
+.language-menu {
+	position: absolute;
+	top: 46px;
+	right: 0;
+	width: 90px;
+	border-radius: 16px;
+	overflow: hidden;
+	animation: menu 0.25s ease;
+	border: 1px solid rgba(255, 255, 255, 0.35);
+	background: rgba(255, 255, 255, 0.381);
+	backdrop-filter: blur(20px);
+	-webkit-backdrop-filter: blur(20px);
+	font-weight: 600;
+	cursor: pointer;
+	box-shadow:
+		inset 0 1px 1px rgba(255, 255, 255, 0.8),
+		0 8px 24px rgba(0, 0, 0, 0.08);
+	transition: 0.3s ease;
+}
+
+.language-menu button {
+	width: 100%;
+	padding: 12px;
+	background: none;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	color: var(--text);
+	transition: 0.3s;
+}
+
+.language-menu button:hover {
+	background: rgba(255, 255, 255, 0.25);
+	transform: translateY(-2px);
+}
+
+.active-language {
+	background: #2d7ff9 !important;
+	color: white !important;
+}
+
+@keyframes menu {
+	from {
+		opacity: 0;
+		transform: translateY(8px);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+@media (max-width: 767px) {
+	.language-btn {
+		width: 60px;
+		height: 28px;
+		gap: 4px;
+	}
+	.language-btn span {
+		font-size: 12px;
+	}
+	.arrow {
+		font-size: 12px;
+	}
+	.arrow.active {
+		border: none;
+	}
+
+	.language-menu button {
+		padding: 10px;
+		font-size: 12px;
+	}
+}

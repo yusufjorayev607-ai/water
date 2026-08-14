@@ -1,0 +1,198 @@
+{
+	"portfolio": [
+		{
+			"slug": "honadon-uchun-1",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-2",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-3",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-4",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-5",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-6",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-7",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+		{
+			"slug": "honadon-uchun-8",
+			"image": "/image/123.png",
+			"category": "honadon-uchun",
+			"price": "150 000"
+		},
+
+		{
+			"slug": "magestral-1",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-2",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-3",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-4",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-5",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-6",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-7",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+		{
+			"slug": "magestral-8",
+			"image": "/image/123.png",
+			"category": "magestral",
+			"price": "150 000"
+		},
+
+		{
+			"slug": "korhonalar-1",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-2",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-3",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-4",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-5",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-6",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-7",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "korhonalar-8",
+			"image": "/image/123.png",
+			"category": "korhonalar",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-1",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-2",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-3",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-4",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-5",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-6",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-7",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		},
+		{
+			"slug": "katrij-8",
+			"image": "/image/123.png",
+			"category": "katrij",
+			"price": "150 000"
+		}
+	]
+}
